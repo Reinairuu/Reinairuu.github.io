@@ -8,9 +8,9 @@
 }
 
 .section-divider {
-    border: none; /* Menghapus garis horizontal default */
-    border-bottom: 4px solid rgb(255, 255, 255); /* Memberikan garis bawah dengan ketebalan 2px dan warna hitam */
-    margin: 0; /* Menghapus margin jika diperlukan */
+    border: none; 
+    border-bottom: 4px solid rgb(255, 255, 255);
+    margin: 0; 
 }
 
 
